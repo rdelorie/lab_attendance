@@ -4,3 +4,4 @@ Author: Rachel Delorie
 format: html
 ---
 
+#In class I have learned how to create charts and graphs using ggplot. 
